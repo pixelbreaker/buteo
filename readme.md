@@ -10,8 +10,8 @@ Case files (STLs and STEP) are also included.
 
 I haven't written the firmware yet...
 
-![Alt text](image-2.png)
+![Alt text](buteo-mx/images/image-2.png)
 
-![Alt text](image-1.png)
+![Alt text](buteo-mx/images/image-1.png)
 
-![Alt text](image.png)
+![Alt text](buteo-mx/images/image.png)
