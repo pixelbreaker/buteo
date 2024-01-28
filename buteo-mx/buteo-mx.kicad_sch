@@ -1956,11 +1956,11 @@
     (property "Datasheet" "~" (at 240.03 108.966 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "A" (uuid 2ea9f16e-0629-422e-ac34-dca48794bc2d))
-    (pin "B" (uuid 205fea1c-11f5-4ac7-a745-2cf341167c1e))
-    (pin "C" (uuid a063d249-c4df-43df-bc26-0046f21d3590))
-    (pin "S1" (uuid 80088164-8f78-4d1a-a02f-28dbb4f7d44f))
-    (pin "S2" (uuid 699a7c65-8bb1-4e08-9408-66dd545799fc))
+    (pin "A" (uuid 6d8b1772-befe-4433-acee-d3613d5d8604))
+    (pin "B" (uuid a23bb731-28d0-41f4-863d-3eab635768b3))
+    (pin "C" (uuid af079a34-f788-43c4-a831-82d4cc3fbd1c))
+    (pin "S1" (uuid f26edd59-34ed-4a98-bf61-63b6207e88fd))
+    (pin "S2" (uuid afbe3cc0-676c-4c86-8805-a0fe9dda9f67))
     (instances
       (project "buteo-mx"
         (path "/cd198205-23b5-48a4-bf67-b541da52c4b6"
